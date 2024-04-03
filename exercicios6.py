@@ -7,9 +7,9 @@ print("4 - retangulo")
 forma = input(("escolha a forma geométrica:"))
 
 if forma == "1" or forma == "quadrado":
-    lado1 = float(input("digite o lado 1: "))
-    lado2 = float(input("digite o lado 2: "))
-    print ("area é:" ,lado1 * lado2)
+    lado = float(input("digite o lado : "))
+    
+    print ("area é:" ,lado * lado)
 elif forma == "2" or forma == "triangulo isósceles":
     base = float(input("digite a base do triangulo isósceles: "))
     altura = float(input("digite a altura do triangulo isósceles: "))
