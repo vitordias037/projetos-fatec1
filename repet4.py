@@ -7,8 +7,6 @@ else:
         if (num % i == 0):
             
            x = x+1
-    
-                
     if x ==2:
         print("primo")
     else:
