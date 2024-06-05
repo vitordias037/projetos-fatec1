@@ -1,4 +1,5 @@
-lista:int = [1, 5, 7, 8]
+
+ lista:int = [1, 5, 7, 8]
 lista2:int = [6, 2, 1, 4,]
 lista3: int = []
 # lista3.append / .append e pra adicionar o numero na lista 3 que está vazia
