@@ -17,7 +17,7 @@ else:
         elif char in special:
            special = True
 
-    # Verifica se todos os critérios são atendidos
+    
     if not maius:
         print("Senha inválida. A senha precisa ter pelo menos uma letra maiúscula.")
     elif not minus:
